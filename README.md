@@ -39,3 +39,9 @@ There are a lot of interesting insights that are derived from the map.
 2. There are also pockets that have poor transport access and have relatively high commute times. This is more common in large developing cities that have expanded in a rapid, unplanned manner.
 3. The way large water bodies that separate large cities around the world is very interesting. In developed cities like Zurich and London, rivers generally act just as a minor hinderance.
 4. The commute mode can be changed from public transport to an own vehicle. In developing cities, the change in the heatmap is found to be more stark than in developed ones.
+
+
+## Screenshots
+
+![Best commute time](https://s7.postimg.org/q1bsoux7f/Screen_Shot_2017_03_05_at_8_08_59_PM.png)
+![Random commute time](https://s7.postimg.org/43fbv2i6z/Screen_Shot_2017_03_05_at_8_09_08_PM.png)
